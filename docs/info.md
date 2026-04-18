@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+this is a security lock when  you enter 1010 the 7 segment display will show a zero. But if you press 1111 this is the error code the, the 7 segment display will show just a line. if you apply other the password it will do nother
 
 ## How to test
 
-Explain how to use your project
+turn on input 1 and input 3 to get the zero ( works right)
+erroe code on input 2 and 4 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 segment display
