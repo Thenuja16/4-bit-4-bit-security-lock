@@ -14,7 +14,7 @@ this is a security lock when  you enter 1010 the 7 segment display will show a z
 ## How to test
 
 turn on input 1 and input 3 to get the zero ( works right)
-erroe code on input 2 and 4 
+erro code on input 2 and 4 
 
 ## External hardware
 
